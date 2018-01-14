@@ -1,0 +1,19 @@
+{
+  "name": "task-import-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizanzaheer/Task-import-export.git"
+  },
+  "author": "Faizan Zaheer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizanzaheer/Task-import-export/issues"
+  },
+  "homepage": "https://github.com/faizanzaheer/Task-import-export#readme"
+}
