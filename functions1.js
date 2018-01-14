@@ -16,7 +16,7 @@ function shiftUpItem(index, listItems) {
   } else {
     var temp = listItems.splice(index, 1)
     listItems.splice(index-1, 0, temp[0])
-    renderArray();
+    renderArray(listItems);
   }
 }
 
@@ -26,7 +26,7 @@ function shiftDownItem(index, listItems) {
   } else {
     var temp = listItems.splice(index, 1)
     listItems.splice(index+1, 0, temp[0])
-    renderArray();
+    renderArray(listItems);
   }
 }
 

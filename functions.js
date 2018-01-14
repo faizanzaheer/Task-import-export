@@ -14,7 +14,8 @@ $(document).ready(function(){
     addItems(item_obj, listItems);
 
   })
+});
 
-}
+
 
 /////////////////////////////////////////////
